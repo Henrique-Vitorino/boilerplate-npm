@@ -1,6 +1,6 @@
 {
-  "author": "Henrique Vitorino",
   "name": "fcc-learn-npm-package-json",
+  "author": "henrique vitorino",
   "dependencies": {
     "express": "^4.14.0"
   },
