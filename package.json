@@ -1,8 +1,6 @@
 {
-  "author": "Henrique-Vitorino",
-  "description": "Nice projecst",
-  "license": "MIT",
   "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -15,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Henrique-Vitorino/boilerplate-npm/blob/gomix/"
+    "url": "https://idontknow/todo.git"
   }
 }
